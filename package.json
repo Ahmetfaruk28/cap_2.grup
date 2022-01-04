@@ -1,0 +1,24 @@
+{
+  "name": "serverjs",
+  "version": "1.0.0",
+  "description": "node js tutorials",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmetfaruk28/odev-grubu.git"
+  },
+  "keywords": [
+    "final",
+    "ödevi"
+  ],
+  "author": "Ahmet Fruk Görmüş, Gökhan Yılmaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ahmetfaruk28/odev-grubu/issues"
+  },
+  "homepage": "https://github.com/Ahmetfaruk28/odev-grubu#readme"
+}
