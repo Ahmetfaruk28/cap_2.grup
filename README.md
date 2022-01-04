@@ -1,1 +1,3 @@
 # cap_2.grup
+Gökhan YILMAZ  190403151
+Ahmet FARUK GÖRMÜŞ 200403567
